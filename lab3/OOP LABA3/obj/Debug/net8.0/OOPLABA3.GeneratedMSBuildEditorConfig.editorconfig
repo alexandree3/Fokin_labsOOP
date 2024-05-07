@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OOP_LABA3
+build_property.RootNamespace = OOP_LABA3
+build_property.ProjectDir = C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 3\OOP LABA3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 3\OOP LABA3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Humen/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHVtZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Humen/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHVtZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Humen/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHVtZW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Humen/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHVtZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Humen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHVtZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Jobs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Jobs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Jobs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Jobs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Jobs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/OfficeJobs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlSm9ic1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/OfficeJobs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlSm9ic1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/OfficeJobs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlSm9ic1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/OfficeJobs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlSm9ic1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/OfficeJobs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlSm9ic1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Offices/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Offices/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Offices/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Offices/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Offices/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/akryl/OneDrive/Рабочий стол/OOP LABS/OOP Lab 3/OOP LABA3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nxurwpfur9

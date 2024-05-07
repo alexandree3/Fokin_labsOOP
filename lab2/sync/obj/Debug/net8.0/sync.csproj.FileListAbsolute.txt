@@ -1,0 +1,14 @@
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\bin\Debug\net8.0\sync.exe
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\bin\Debug\net8.0\sync.deps.json
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\bin\Debug\net8.0\sync.runtimeconfig.json
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\bin\Debug\net8.0\sync.dll
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\bin\Debug\net8.0\sync.pdb
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\sync.AssemblyInfoInputs.cache
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\sync.AssemblyInfo.cs
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\sync.csproj.CoreCompileInputs.cache
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\sync.dll
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\refint\sync.dll
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\sync.pdb
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\sync.genruntimeconfig.cache
+C:\Users\юзер\Desktop\Steven Prata\sync\sync\obj\Debug\net8.0\ref\sync.dll

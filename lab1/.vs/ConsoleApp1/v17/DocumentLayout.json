@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377BC5D4-D301-4D8C-B1E6-883EA78B090B}|1Tests\\1Tests.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\1tests\\rationaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377BC5D4-D301-4D8C-B1E6-883EA78B090B}|1Tests\\1Tests.csproj|solutionrelative:1tests\\rationaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFA455-B60B-4BDF-BC50-4FAD8044C4A9}|1\\1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\1\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFA455-B60B-4BDF-BC50-4FAD8044C4A9}|1\\1.csproj|solutionrelative:1\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\consoleapp1\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF45B18-45A7-4930-87C4-E7A420217778}|3\\3.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF45B18-45A7-4930-87C4-E7A420217778}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF45B18-45A7-4930-87C4-E7A420217778}|3\\3.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF45B18-45A7-4930-87C4-E7A420217778}|3\\3.csproj|solutionrelative:3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\consoleapp1\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\consoleapp1\\ldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\consoleapp1\\fdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\fdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\consoleapp1\\eudatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\eudatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u044E\u0437\u0435\u0440\\desktop\\oop_labss\\lab_1full\\consoleapp1\\usdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01070-3019-4CC7-9340-0C4109F8A40C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\usdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RationalTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\1Tests\\RationalTests.cs",
+              "RelativeDocumentMoniker": "1Tests\\RationalTests.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\1Tests\\RationalTests.cs",
+              "RelativeToolTip": "1Tests\\RationalTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:30:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rational.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\1\\Rational.cs",
+              "RelativeDocumentMoniker": "1\\Rational.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\1\\Rational.cs",
+              "RelativeToolTip": "1\\Rational.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:28:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\3\\Tree.cs",
+              "RelativeDocumentMoniker": "3\\Tree.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\3\\Tree.cs",
+              "RelativeToolTip": "3\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:24:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:21:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTime.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\DateTime.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DateTime.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\DateTime.cs",
+              "RelativeToolTip": "ConsoleApp1\\DateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:57:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\FDecorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FDecorator.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\FDecorator.cs",
+              "RelativeToolTip": "ConsoleApp1\\FDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:53:57.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\Decorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Decorator.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\Decorator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Decorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:51:14.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EUDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\EUDateTime.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\EUDateTime.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\EUDateTime.cs",
+              "RelativeToolTip": "ConsoleApp1\\EUDateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:21:39.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:52:01.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\LDecorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\LDecorator.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\LDecorator.cs",
+              "RelativeToolTip": "ConsoleApp1\\LDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:58:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "USDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\USDateTime.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\USDateTime.cs",
+              "ToolTip": "C:\\Users\\\u044E\u0437\u0435\u0440\\Desktop\\OOP_labss\\lab_1full\\ConsoleApp1\\USDateTime.cs",
+              "RelativeToolTip": "ConsoleApp1\\USDateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:21:00.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

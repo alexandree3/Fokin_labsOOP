@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OOPLABA3.props" />
+</Project>

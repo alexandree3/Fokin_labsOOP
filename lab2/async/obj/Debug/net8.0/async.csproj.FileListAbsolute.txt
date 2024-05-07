@@ -1,0 +1,14 @@
+C:\Users\юзер\Desktop\Steven Prata\sync\async\bin\Debug\net8.0\async.exe
+C:\Users\юзер\Desktop\Steven Prata\sync\async\bin\Debug\net8.0\async.deps.json
+C:\Users\юзер\Desktop\Steven Prata\sync\async\bin\Debug\net8.0\async.runtimeconfig.json
+C:\Users\юзер\Desktop\Steven Prata\sync\async\bin\Debug\net8.0\async.dll
+C:\Users\юзер\Desktop\Steven Prata\sync\async\bin\Debug\net8.0\async.pdb
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\async.AssemblyInfoInputs.cache
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\async.AssemblyInfo.cs
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\async.csproj.CoreCompileInputs.cache
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\async.dll
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\refint\async.dll
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\async.pdb
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\async.genruntimeconfig.cache
+C:\Users\юзер\Desktop\Steven Prata\sync\async\obj\Debug\net8.0\ref\async.dll
